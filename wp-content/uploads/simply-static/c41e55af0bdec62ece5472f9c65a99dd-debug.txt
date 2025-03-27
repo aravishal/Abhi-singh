@@ -7305,3 +7305,858 @@
 [2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535157c9c3-PThs1k.tmp
 [2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css?simply_static_page=1654
 [2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css?simply_static_page=1654
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 2704 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535157c9c3-PThs1k.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:8765adaad5265f0a55cdee29b611e837bc022976===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-star-rating.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535159ba1d-MiQZEI.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-star-rating.min.css?simply_static_page=1655
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-star-rating.min.css?simply_static_page=1655
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 2703 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-star-rating.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535159ba1d-MiQZEI.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-star-rating.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:a2392a08e4f9d64afcf1fcb167f7ff57c0872a22===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-tabs-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53515b6da9-g72gT7.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-tabs-rtl.min.css?simply_static_page=1656
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-tabs-rtl.min.css?simply_static_page=1656
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 4196 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-tabs-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53515b6da9-g72gT7.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-tabs-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:5d64b62919f1a8e2c80f34735c1d99e06aab5b98===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-tabs.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53515c4a5e-dA9hCO.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-tabs.min.css?simply_static_page=1657
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-tabs.min.css?simply_static_page=1657
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 4197 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-tabs.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53515c4a5e-dA9hCO.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-tabs.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:a4f066f97c92d3cc4691f97027243c692ed3e2b8===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-testimonial-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53515d015c-9V8X3J.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-testimonial-rtl.min.css?simply_static_page=1658
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-testimonial-rtl.min.css?simply_static_page=1658
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 1680 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-testimonial-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53515d015c-9V8X3J.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-testimonial-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:3a148a04c4978f1f4e6ae1f619a2aaef717d43f7===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-testimonial.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53515e0886-KDs7MC.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-testimonial.min.css?simply_static_page=1659
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-testimonial.min.css?simply_static_page=1659
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 1680 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-testimonial.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53515e0886-KDs7MC.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-testimonial.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:3a148a04c4978f1f4e6ae1f619a2aaef717d43f7===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-editor-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53515ea7ba-5jKRnx.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-editor-rtl.min.css?simply_static_page=1660
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-editor-rtl.min.css?simply_static_page=1660
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 720 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-text-editor-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53515ea7ba-5jKRnx.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-text-editor-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:107a05172f1c08e3212b03bca857a2e8a94cb643===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351610c55-h9iWpL.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?simply_static_page=1661
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?simply_static_page=1661
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 720 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-text-editor.min.css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351610c55-h9iWpL.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:107a05172f1c08e3212b03bca857a2e8a94cb643===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-path-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535162d50c-mNWpUY.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-path-rtl.min.css?simply_static_page=1662
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-path-rtl.min.css?simply_static_page=1662
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 1088 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-text-path-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535162d50c-mNWpUY.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-text-path-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:e37cf05f56bf5da9428a34898076f55543465a5e===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-path.min.css
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535164125c-VEBv0o.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-path.min.css?simply_static_page=1663
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-text-path.min.css?simply_static_page=1663
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 1088 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-text-path.min.css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535164125c-VEBv0o.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-text-path.min.css
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:330a50c93d0adfaa3ec0ac176e00e7e20d3f2025===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-toggle-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535166cb2d-HxM6tr.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-toggle-rtl.min.css?simply_static_page=1664
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-toggle-rtl.min.css?simply_static_page=1664
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 1578 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-toggle-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535166cb2d-HxM6tr.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-toggle-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:17c8e1d1d496afc808c5aba7ed776abbb29ea51b===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-toggle.min.css
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351672a55-XYZY6M.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?simply_static_page=1665
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?simply_static_page=1665
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 1578 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-toggle.min.css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351672a55-XYZY6M.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-toggle.min.css
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:17c8e1d1d496afc808c5aba7ed776abbb29ea51b===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-video-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535167cc2f-3gtnMv.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-video-rtl.min.css?simply_static_page=1666
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-video-rtl.min.css?simply_static_page=1666
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 1283 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-video-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535167cc2f-3gtnMv.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-video-rtl.min.css
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:05fbc30b9cda1fc89179e1a302acf5e511c1c0a4===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-video.min.css
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535169a127-IILD1N.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-video.min.css?simply_static_page=1667
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-video.min.css?simply_static_page=1667
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 1283 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-video.min.css
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535169a127-IILD1N.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-video.min.css
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:05fbc30b9cda1fc89179e1a302acf5e511c1c0a4===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/025905cd015671d0a830.bundle.min.js
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53516b066f-8qhST4.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/025905cd015671d0a830.bundle.min.js?simply_static_page=1668
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/025905cd015671d0a830.bundle.min.js?simply_static_page=1668
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 4102 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/025905cd015671d0a830.bundle.min.js
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53516b066f-8qhST4.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/025905cd015671d0a830.bundle.min.js
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:82ba01c138f6a066edfb38c3e335c12a54b15da9===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/056b8f3bbbcabf026cd1.bundle.js
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53516c8314-V1aPHQ.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/056b8f3bbbcabf026cd1.bundle.js?simply_static_page=1669
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/056b8f3bbbcabf026cd1.bundle.js?simply_static_page=1669
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:103] Filesize: 44877 bytes
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/056b8f3bbbcabf026cd1.bundle.js
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53516c8314-V1aPHQ.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/056b8f3bbbcabf026cd1.bundle.js
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:02] [class-ss-page.php:119] Checking Content Identical:8448bb30e9716b261d3a95a0e3aaffe52f61ad12===. Value: FALSE
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/0d1a75a41cae2a76432a.bundle.js
+[2025-03-27 11:23:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 1209
+[2025-03-27 11:23:02] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53516f300c-V5VawY.tmp
+[2025-03-27 11:23:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/0d1a75a41cae2a76432a.bundle.js?simply_static_page=1670
+[2025-03-27 11:23:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/0d1a75a41cae2a76432a.bundle.js?simply_static_page=1670
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 15095 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/0d1a75a41cae2a76432a.bundle.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53516f300c-V5VawY.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/0d1a75a41cae2a76432a.bundle.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:05ba34ed2b3ab5f774c64267ff83dbc0c8d1696c===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/0f7962315cd2e100f80e.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535170d817-2tjsz9.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/0f7962315cd2e100f80e.bundle.min.js?simply_static_page=1671
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/0f7962315cd2e100f80e.bundle.min.js?simply_static_page=1671
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 36898 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/0f7962315cd2e100f80e.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535170d817-2tjsz9.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/0f7962315cd2e100f80e.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:fcad133c828f92ad8757036cd32be4db0c067fd1===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 400 of 1209 pages/files
+[2025-03-27 11:23:03] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-03-27 11:23:03] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-03-27 11:23:03] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:69] Total pages: 1209; Pages remaining: 759
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/2e387c4154cbf63565b2.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351721fe7-QDxyHc.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/2e387c4154cbf63565b2.bundle.min.js?simply_static_page=1672
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/2e387c4154cbf63565b2.bundle.min.js?simply_static_page=1672
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 23677 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/2e387c4154cbf63565b2.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351721fe7-QDxyHc.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/2e387c4154cbf63565b2.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:723ba6d42a41f20a839c037e5fb046f311fc0b46===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/3ac06e8b9c2e8f04c57d.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535173cedf-7Rxc6w.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/3ac06e8b9c2e8f04c57d.bundle.min.js?simply_static_page=1673
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/3ac06e8b9c2e8f04c57d.bundle.min.js?simply_static_page=1673
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 13406 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/3ac06e8b9c2e8f04c57d.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535173cedf-7Rxc6w.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/3ac06e8b9c2e8f04c57d.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:2eca5738b6f859e4853bebf06e6d60f4f8649706===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/4573680c5d8b9b2d9f17.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351750d1a-IRIpRh.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/4573680c5d8b9b2d9f17.bundle.min.js?simply_static_page=1674
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/4573680c5d8b9b2d9f17.bundle.min.js?simply_static_page=1674
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 5438 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/4573680c5d8b9b2d9f17.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351750d1a-IRIpRh.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/4573680c5d8b9b2d9f17.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:7f91ee2be2c81087e01cc44f76221b7054f284cc===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/513d3f05d575dabcdc35.bundle.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53517774f6-ecHGSj.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/513d3f05d575dabcdc35.bundle.js?simply_static_page=1675
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/513d3f05d575dabcdc35.bundle.js?simply_static_page=1675
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 63581 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/513d3f05d575dabcdc35.bundle.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53517774f6-ecHGSj.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/513d3f05d575dabcdc35.bundle.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:ed0086aea1ba75328d7945c0e00cb8b3c980e01c===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/56a155a8adcef506ce8a.bundle.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351787581-zaramN.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/56a155a8adcef506ce8a.bundle.js?simply_static_page=1676
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/56a155a8adcef506ce8a.bundle.js?simply_static_page=1676
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 271244 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/56a155a8adcef506ce8a.bundle.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351787581-zaramN.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/56a155a8adcef506ce8a.bundle.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:56f3b4d246956fc3541a923a3fa14c657f952275===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/5b6ef966b71e5cf670d8.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53517a9fa0-4OW1H7.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/5b6ef966b71e5cf670d8.bundle.min.js?simply_static_page=1677
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/5b6ef966b71e5cf670d8.bundle.min.js?simply_static_page=1677
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 5096 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/5b6ef966b71e5cf670d8.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53517a9fa0-4OW1H7.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/5b6ef966b71e5cf670d8.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:618d1723b06b14112fd04ba1c89185010dc3b8b1===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/947434f8f98ed29acc17.bundle.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53517ba988-gaVOI0.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/947434f8f98ed29acc17.bundle.js?simply_static_page=1678
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/947434f8f98ed29acc17.bundle.js?simply_static_page=1678
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 113943 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/947434f8f98ed29acc17.bundle.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53517ba988-gaVOI0.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/947434f8f98ed29acc17.bundle.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:b3da87f71225a4aa82336dcf129432d753481be7===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/accordion.36aa4c8c4eba17bc8e03.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53517d762b-q6D40M.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/accordion.36aa4c8c4eba17bc8e03.bundle.min.js?simply_static_page=1679
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/accordion.36aa4c8c4eba17bc8e03.bundle.min.js?simply_static_page=1679
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:103] Filesize: 3793 bytes
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/accordion.36aa4c8c4eba17bc8e03.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53517d762b-q6D40M.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/accordion.36aa4c8c4eba17bc8e03.bundle.min.js
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:03] [class-ss-page.php:119] Checking Content Identical:4cddf0adfb9355136ce8fa40a1716618c63808af===. Value: FALSE
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/accordion.7b5b5744bdd225280eca.bundle.js
+[2025-03-27 11:23:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 1209
+[2025-03-27 11:23:03] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53517f32c8-ibFryQ.tmp
+[2025-03-27 11:23:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/accordion.7b5b5744bdd225280eca.bundle.js?simply_static_page=1680
+[2025-03-27 11:23:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/accordion.7b5b5744bdd225280eca.bundle.js?simply_static_page=1680
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 8086 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/accordion.7b5b5744bdd225280eca.bundle.js
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53517f32c8-ibFryQ.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/accordion.7b5b5744bdd225280eca.bundle.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:b513433940b93aa06ad2d4335d1368fe4cfe8d03===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/adbbe9b5d6b520e98e4c.bundle.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535180523a-Qdjpza.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/adbbe9b5d6b520e98e4c.bundle.js?simply_static_page=1681
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/adbbe9b5d6b520e98e4c.bundle.js?simply_static_page=1681
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 14519 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/adbbe9b5d6b520e98e4c.bundle.js
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535180523a-Qdjpza.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/adbbe9b5d6b520e98e4c.bundle.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:ea9be8ed33c7dbb4c0e76b73a89d1575b2fb4bf1===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-feedback.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-feedback.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-feedback.min.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-feedback.min.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535181701b-WnPKyp.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.js?simply_static_page=1684
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.js?simply_static_page=1684
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 37153 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin-modules.js
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535181701b-WnPKyp.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin-modules.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:4fff73157d0a30039a763066283ab8e09aeaac0a===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.min.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351825873-GqKsNe.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.min.js?simply_static_page=1685
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.min.js?simply_static_page=1685
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 17495 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin-modules.min.js
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351825873-GqKsNe.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin-modules.min.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:b88619422534f512b1595b6c5f088429f9cb5c09===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.min.js.LICENSE.txt
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351838398-TOONbl.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.min.js.LICENSE.txt?simply_static_page=1686
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-modules.min.js.LICENSE.txt?simply_static_page=1686
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 149 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin-modules.min.js.LICENSE.txt
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351838398-TOONbl.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin-modules.min.js.LICENSE.txt
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:b1881002be3d4d5fce842624241a654c954c677f===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351848504-ZvPa75.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.js?simply_static_page=1687
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.js?simply_static_page=1687
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 315181 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin-notifications.js
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351848504-ZvPa75.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin-notifications.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:fb9e894730a0c89809d5426c9037ccf2c5c2c628===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.min.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351877bc3-LV8cIu.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.min.js?simply_static_page=1688
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.min.js?simply_static_page=1688
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 90596 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin-notifications.min.js
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351877bc3-LV8cIu.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin-notifications.min.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:b9ce65bb8dc9d8617ca95c7c9b9028931598fa4f===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.min.js.LICENSE.txt
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53518a19e8-JrKWxs.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.min.js.LICENSE.txt?simply_static_page=1689
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-notifications.min.js.LICENSE.txt?simply_static_page=1689
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 249 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin-notifications.min.js.LICENSE.txt
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53518a19e8-JrKWxs.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin-notifications.min.js.LICENSE.txt
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:57b7b2d716676aa5266ccdc1abd15b99bc557b74===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-top-bar.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53518c8dcc-9OxxtI.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-top-bar.js?simply_static_page=1690
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-top-bar.js?simply_static_page=1690
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 69044 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin-top-bar.js
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53518c8dcc-9OxxtI.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin-top-bar.js
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:04] [class-ss-page.php:119] Checking Content Identical:5e745580efcb89a591330047e450383815897137===. Value: FALSE
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-top-bar.min.js
+[2025-03-27 11:23:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 1209
+[2025-03-27 11:23:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53518f094c-ii96jx.tmp
+[2025-03-27 11:23:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-top-bar.min.js?simply_static_page=1691
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin-top-bar.min.js?simply_static_page=1691
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:103] Filesize: 12611 bytes
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin-top-bar.min.js
+[2025-03-27 11:23:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53518f094c-ii96jx.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin-top-bar.min.js
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:05] [class-ss-page.php:119] Checking Content Identical:6179b8d5f6165a456a1393fda301da5720c05c91===. Value: FALSE
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.js
+[2025-03-27 11:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 1209
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535190369a-eq7bKo.tmp
+[2025-03-27 11:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.js?simply_static_page=1692
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.js?simply_static_page=1692
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:103] Filesize: 116564 bytes
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin.js
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535190369a-eq7bKo.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin.js
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:05] [class-ss-page.php:119] Checking Content Identical:c3485277c6eeddfd8aca4da2a4f8e87b68e1e6a2===. Value: FALSE
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.min.js
+[2025-03-27 11:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 1209
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53519214e7-BSLnLa.tmp
+[2025-03-27 11:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.min.js?simply_static_page=1693
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.min.js?simply_static_page=1693
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:103] Filesize: 55723 bytes
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin.min.js
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53519214e7-BSLnLa.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin.min.js
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:05] [class-ss-page.php:119] Checking Content Identical:e227ac9e0ff7a39d8944d52f1d0d15dc48047d9d===. Value: FALSE
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.min.js.LICENSE.txt
+[2025-03-27 11:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 1209
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351941db1-KX6XcL.tmp
+[2025-03-27 11:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.min.js.LICENSE.txt?simply_static_page=1694
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/admin.min.js.LICENSE.txt?simply_static_page=1694
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:103] Filesize: 149 bytes
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/admin.min.js.LICENSE.txt
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351941db1-KX6XcL.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/admin.min.js.LICENSE.txt
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:05] [class-ss-page.php:119] Checking Content Identical:b1881002be3d4d5fce842624241a654c954c677f===. Value: FALSE
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.js
+[2025-03-27 11:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 1209
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351963798-xEqnYY.tmp
+[2025-03-27 11:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.js?simply_static_page=1695
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.js?simply_static_page=1695
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:103] Filesize: 2047321 bytes
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-admin.js
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351963798-xEqnYY.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-admin.js
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:05] [class-ss-page.php:119] Checking Content Identical:85075b6cc96f549aaf6f6624e9a93c9e83309efb===. Value: FALSE
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.min.js
+[2025-03-27 11:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 1209
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53519b1033-gI9UmU.tmp
+[2025-03-27 11:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.min.js?simply_static_page=1696
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.min.js?simply_static_page=1696
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:103] Filesize: 621451 bytes
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-admin.min.js
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53519b1033-gI9UmU.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-admin.min.js
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:05] [class-ss-page.php:119] Checking Content Identical:b804aeb5c937fb9ae7d86e58b1277349a06ed596===. Value: FALSE
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.min.js.LICENSE.txt
+[2025-03-27 11:23:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 1209
+[2025-03-27 11:23:05] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53519dd5b8-g8O1Yc.tmp
+[2025-03-27 11:23:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.min.js.LICENSE.txt?simply_static_page=1697
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-admin.min.js.LICENSE.txt?simply_static_page=1697
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:103] Filesize: 511 bytes
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-admin.min.js.LICENSE.txt
+[2025-03-27 11:23:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53519dd5b8-g8O1Yc.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-admin.min.js.LICENSE.txt
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:06] [class-ss-page.php:119] Checking Content Identical:247c75dac48ea1bd526a417281e296de3bdaef6b===. Value: FALSE
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.js
+[2025-03-27 11:23:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 1209
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351a123c1-pH5xJo.tmp
+[2025-03-27 11:23:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.js?simply_static_page=1698
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.js?simply_static_page=1698
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:103] Filesize: 2182195 bytes
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-gutenberg.js
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351a123c1-pH5xJo.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-gutenberg.js
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:06] [class-ss-page.php:119] Checking Content Identical:01b3910f32b826ca389b316b1e174a5a72419754===. Value: FALSE
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js
+[2025-03-27 11:23:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 1209
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351a5bf31-noRFlc.tmp
+[2025-03-27 11:23:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js?simply_static_page=1699
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js?simply_static_page=1699
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:103] Filesize: 650769 bytes
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351a5bf31-noRFlc.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:06] [class-ss-page.php:119] Checking Content Identical:1d3ec0381657fa25920fefc743e21e65f48e1110===. Value: FALSE
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js.LICENSE.txt
+[2025-03-27 11:23:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 1209
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351a97e10-P74E9c.tmp
+[2025-03-27 11:23:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js.LICENSE.txt?simply_static_page=1700
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js.LICENSE.txt?simply_static_page=1700
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:103] Filesize: 672 bytes
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js.LICENSE.txt
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351a97e10-P74E9c.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js.LICENSE.txt
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:06] [class-ss-page.php:119] Checking Content Identical:3c0e9a57ae5b64450cfedeaf2228ee409c37ea0b===. Value: FALSE
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.js
+[2025-03-27 11:23:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 1209
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351abbcd8-XeICgk.tmp
+[2025-03-27 11:23:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.js?simply_static_page=1701
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.js?simply_static_page=1701
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:103] Filesize: 603627 bytes
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-layout.js
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351abbcd8-XeICgk.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-layout.js
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:06] [class-ss-page.php:119] Checking Content Identical:eb06b51d647715d9d3f1cbe70c40fc643d7b3166===. Value: FALSE
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.min.js
+[2025-03-27 11:23:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 1209
+[2025-03-27 11:23:06] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351af26b0-ZwVmqv.tmp
+[2025-03-27 11:23:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.min.js?simply_static_page=1702
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.min.js?simply_static_page=1702
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:103] Filesize: 224952 bytes
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-layout.min.js
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351af26b0-ZwVmqv.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-layout.min.js
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:07] [class-ss-page.php:119] Checking Content Identical:df55efbbae80f3ebc8f545e57612186746bb5604===. Value: FALSE
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.min.js.LICENSE.txt
+[2025-03-27 11:23:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 1209
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351b1daf1-mejwJs.tmp
+[2025-03-27 11:23:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.min.js.LICENSE.txt?simply_static_page=1703
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-layout.min.js.LICENSE.txt?simply_static_page=1703
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:103] Filesize: 149 bytes
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-layout.min.js.LICENSE.txt
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351b1daf1-mejwJs.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-layout.min.js.LICENSE.txt
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:07] [class-ss-page.php:119] Checking Content Identical:b1881002be3d4d5fce842624241a654c954c677f===. Value: FALSE
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.js
+[2025-03-27 11:23:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 1209
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351b2d528-QbAAsP.tmp
+[2025-03-27 11:23:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.js?simply_static_page=1704
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.js?simply_static_page=1704
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:103] Filesize: 2165088 bytes
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-media-library.js
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351b2d528-QbAAsP.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-media-library.js
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:07] [class-ss-page.php:119] Checking Content Identical:1e9650e20dcfbc1b568de83e10523078a1bb94e1===. Value: FALSE
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.min.js
+[2025-03-27 11:23:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 1209
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351b74995-ZytGD2.tmp
+[2025-03-27 11:23:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.min.js?simply_static_page=1705
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.min.js?simply_static_page=1705
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:103] Filesize: 645772 bytes
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-media-library.min.js
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351b74995-ZytGD2.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-media-library.min.js
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:07] [class-ss-page.php:119] Checking Content Identical:06289feaa8af8a40cf3bf21ecaca4ec591d5a2fc===. Value: FALSE
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.min.js.LICENSE.txt
+[2025-03-27 11:23:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 1209
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351b932d4-Akd6ZU.tmp
+[2025-03-27 11:23:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.min.js.LICENSE.txt?simply_static_page=1706
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-media-library.min.js.LICENSE.txt?simply_static_page=1706
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:103] Filesize: 672 bytes
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-media-library.min.js.LICENSE.txt
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351b932d4-Akd6ZU.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-media-library.min.js.LICENSE.txt
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:07] [class-ss-page.php:119] Checking Content Identical:3c0e9a57ae5b64450cfedeaf2228ee409c37ea0b===. Value: FALSE
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.js
+[2025-03-27 11:23:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 1209
+[2025-03-27 11:23:07] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351bb7aaa-eHazXP.tmp
+[2025-03-27 11:23:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.js?simply_static_page=1707
+[2025-03-27 11:23:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.js?simply_static_page=1707
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:103] Filesize: 2160727 bytes
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-unify-product-images.js
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351bb7aaa-eHazXP.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-unify-product-images.js
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:08] [class-ss-page.php:119] Checking Content Identical:0a7da18ba60cfe4e640f816977ae6f807d901571===. Value: FALSE
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js
+[2025-03-27 11:23:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 1209
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351c2645e-2zMlAp.tmp
+[2025-03-27 11:23:08] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js?simply_static_page=1708
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js?simply_static_page=1708
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:103] Filesize: 642445 bytes
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351c2645e-2zMlAp.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:08] [class-ss-page.php:119] Checking Content Identical:48c20eb1a911616c2b05ea6d0cc638eaa6a3b1f6===. Value: FALSE
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js.LICENSE.txt
+[2025-03-27 11:23:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 1209
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351c60b48-51vMRN.tmp
+[2025-03-27 11:23:08] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js.LICENSE.txt?simply_static_page=1709
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js.LICENSE.txt?simply_static_page=1709
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:103] Filesize: 672 bytes
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js.LICENSE.txt
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351c60b48-51vMRN.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai-unify-product-images.min.js.LICENSE.txt
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:08] [class-ss-page.php:119] Checking Content Identical:3c0e9a57ae5b64450cfedeaf2228ee409c37ea0b===. Value: FALSE
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.js
+[2025-03-27 11:23:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 1209
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351c842f6-P1zXXo.tmp
+[2025-03-27 11:23:08] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.js?simply_static_page=1710
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.js?simply_static_page=1710
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:103] Filesize: 2217357 bytes
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai.js
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351c842f6-P1zXXo.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai.js
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:08] [class-ss-page.php:119] Checking Content Identical:0d90250728ada271c70877e3e0ae076f461e184f===. Value: FALSE
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.min.js
+[2025-03-27 11:23:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 1209
+[2025-03-27 11:23:08] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351cde9a5-TsM4FY.tmp
+[2025-03-27 11:23:08] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.min.js?simply_static_page=1711
+[2025-03-27 11:23:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.min.js?simply_static_page=1711
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:103] Filesize: 667287 bytes
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai.min.js
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351cde9a5-TsM4FY.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai.min.js
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:09] [class-ss-page.php:119] Checking Content Identical:2fbbef5b0802587b717e5589a2f0eb406ea1ca9d===. Value: FALSE
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.min.js.LICENSE.txt
+[2025-03-27 11:23:09] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 1209
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351d0e76e-acHeaZ.tmp
+[2025-03-27 11:23:09] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.min.js.LICENSE.txt?simply_static_page=1712
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/ai.min.js.LICENSE.txt?simply_static_page=1712
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:103] Filesize: 672 bytes
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/plain
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/ai.min.js.LICENSE.txt
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351d0e76e-acHeaZ.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/ai.min.js.LICENSE.txt
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:09] [class-ss-page.php:119] Checking Content Identical:3c0e9a57ae5b64450cfedeaf2228ee409c37ea0b===. Value: FALSE
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/alert.42cc1d522ef5c60bf874.bundle.min.js
+[2025-03-27 11:23:09] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 1209
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351d2b488-Cz51bg.tmp
+[2025-03-27 11:23:09] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/alert.42cc1d522ef5c60bf874.bundle.min.js?simply_static_page=1713
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/alert.42cc1d522ef5c60bf874.bundle.min.js?simply_static_page=1713
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:103] Filesize: 658 bytes
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/alert.42cc1d522ef5c60bf874.bundle.min.js
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351d2b488-Cz51bg.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/alert.42cc1d522ef5c60bf874.bundle.min.js
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:09] [class-ss-page.php:119] Checking Content Identical:f3d652380f4dfb4f9982e3d142e09bf2b8539967===. Value: FALSE
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/alert.b696182ec6f18a35bc69.bundle.js
+[2025-03-27 11:23:09] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 1209
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351d3c37a-TWWJYw.tmp
+[2025-03-27 11:23:09] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/alert.b696182ec6f18a35bc69.bundle.js?simply_static_page=1714
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/alert.b696182ec6f18a35bc69.bundle.js?simply_static_page=1714
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:103] Filesize: 1445 bytes
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/alert.b696182ec6f18a35bc69.bundle.js
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351d3c37a-TWWJYw.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/alert.b696182ec6f18a35bc69.bundle.js
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:09] [class-ss-page.php:119] Checking Content Identical:9ee8c091480cd53c8ea257cda0a77e6655370496===. Value: FALSE
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/announcements-app.js
+[2025-03-27 11:23:09] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 1209
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351d466db-LDJ75p.tmp
+[2025-03-27 11:23:09] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/announcements-app.js?simply_static_page=1715
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/announcements-app.js?simply_static_page=1715
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:103] Filesize: 101111 bytes
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/js/announcements-app.js
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351d466db-LDJ75p.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/js/announcements-app.js
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:09] [class-ss-page.php:119] Checking Content Identical:00f49d20d35f73e788cd46dceccceb91efac053c===. Value: FALSE
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/announcements-app.min.js
+[2025-03-27 11:23:09] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 1209
+[2025-03-27 11:23:09] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351d5f3ae-CtL4eL.tmp
+[2025-03-27 11:23:09] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/announcements-app.min.js?simply_static_page=1716
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/js/announcements-app.min.js?simply_static_page=1716
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:103] Filesize: 28104 bytes
+[2025-03-27 11:23:09] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
