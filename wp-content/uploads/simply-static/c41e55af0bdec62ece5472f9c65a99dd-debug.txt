@@ -6250,3 +6250,1058 @@
 [2025-03-27 11:22:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350c96344-iT82Ag.tmp
 [2025-03-27 11:22:52] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-10.min.css?simply_static_page=1579
 [2025-03-27 11:22:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-10.min.css?simply_static_page=1579
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:103] Filesize: 9623 bytes
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-10.min.css
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350c96344-iT82Ag.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-10.min.css
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:52] [class-ss-page.php:119] Checking Content Identical:2b3f2c02f55e0c00dc556408d07a4e40647752ff===. Value: FALSE
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3-rtl.min.css
+[2025-03-27 11:22:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 1209
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350cb9512-4swvHO.tmp
+[2025-03-27 11:22:52] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3-rtl.min.css?simply_static_page=1580
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3-rtl.min.css?simply_static_page=1580
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:103] Filesize: 11928 bytes
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3-rtl.min.css
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350cb9512-4swvHO.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3-rtl.min.css
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:52] [class-ss-page.php:119] Checking Content Identical:d21c254c2b10a4d2758dc9815da556cac4be116a===. Value: FALSE
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3.min.css
+[2025-03-27 11:22:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 1209
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350cc955d-k04kxC.tmp
+[2025-03-27 11:22:52] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3.min.css?simply_static_page=1581
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3.min.css?simply_static_page=1581
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:103] Filesize: 11928 bytes
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3.min.css
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350cc955d-k04kxC.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3.min.css
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:52] [class-ss-page.php:119] Checking Content Identical:d21c254c2b10a4d2758dc9815da556cac4be116a===. Value: FALSE
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4-rtl.min.css
+[2025-03-27 11:22:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 1209
+[2025-03-27 11:22:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350cf0b13-EUg6x5.tmp
+[2025-03-27 11:22:52] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4-rtl.min.css?simply_static_page=1582
+[2025-03-27 11:22:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4-rtl.min.css?simply_static_page=1582
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 8029 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350cf0b13-EUg6x5.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:e8f7105c9151a7c1b5706c6f5d4302b333607fa7===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350d06fb0-QpUPqI.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4.min.css?simply_static_page=1583
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4.min.css?simply_static_page=1583
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 8029 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350d06fb0-QpUPqI.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:e8f7105c9151a7c1b5706c6f5d4302b333607fa7===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350d15e97-fLitZV.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6-rtl.min.css?simply_static_page=1584
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6-rtl.min.css?simply_static_page=1584
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 3268 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350d15e97-fLitZV.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:632c998cfb85e77115759678f2e7e5adb101fb52===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350d25924-yxVqG6.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6.min.css?simply_static_page=1585
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6.min.css?simply_static_page=1585
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 3268 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350d25924-yxVqG6.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:632c998cfb85e77115759678f2e7e5adb101fb52===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350d37ceb-aemIqU.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7-rtl.min.css?simply_static_page=1586
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7-rtl.min.css?simply_static_page=1586
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 2417 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350d37ceb-aemIqU.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:29fd011c3179befce7d6ebdc9dfbd1efd2aad34e===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350d59c66-dz0mlK.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7.min.css?simply_static_page=1587
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7.min.css?simply_static_page=1587
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 2417 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350d59c66-dz0mlK.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:29fd011c3179befce7d6ebdc9dfbd1efd2aad34e===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350d65c67-WkOHUh.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8-rtl.min.css?simply_static_page=1588
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8-rtl.min.css?simply_static_page=1588
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 5545 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350d65c67-WkOHUh.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:a508a5e73d6561cac873967026fcc90d0525b93f===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350d756af-FTyfHZ.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8.min.css?simply_static_page=1589
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8.min.css?simply_static_page=1589
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 5545 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350d756af-FTyfHZ.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:a508a5e73d6561cac873967026fcc90d0525b93f===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350d95fe5-OjCmNi.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9-rtl.min.css?simply_static_page=1590
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9-rtl.min.css?simply_static_page=1590
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 9514 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350d95fe5-OjCmNi.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:2a48cee970f9c2538fabefb7e94fd3916bab6d75===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350da69ef-GvXSjl.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9.min.css?simply_static_page=1591
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9.min.css?simply_static_page=1591
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 9514 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350da69ef-GvXSjl.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:2a48cee970f9c2538fabefb7e94fd3916bab6d75===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350db986c-GY33Oy.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars-rtl.min.css?simply_static_page=1592
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars-rtl.min.css?simply_static_page=1592
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 40 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350db986c-GY33Oy.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:e114eef7bb23345b801cba10e136cf059fba3b6a===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350dd9f5d-vl4INg.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars.min.css?simply_static_page=1593
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars.min.css?simply_static_page=1593
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:103] Filesize: 40 bytes
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars.min.css
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350dd9f5d-vl4INg.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-contact-buttons-vars.min.css
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:53] [class-ss-page.php:119] Checking Content Identical:e114eef7bb23345b801cba10e136cf059fba3b6a===. Value: FALSE
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-counter-rtl.min.css
+[2025-03-27 11:22:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 1209
+[2025-03-27 11:22:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350de8ece-9M4xpD.tmp
+[2025-03-27 11:22:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-counter-rtl.min.css?simply_static_page=1594
+[2025-03-27 11:22:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-counter-rtl.min.css?simply_static_page=1594
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 793 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-counter-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350de8ece-9M4xpD.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-counter-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:c03af697cb5b65f5a480a0ed478408fec0651009===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-counter.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350e14927-E34Jnw.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-counter.min.css?simply_static_page=1595
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-counter.min.css?simply_static_page=1595
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 793 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-counter.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350e14927-E34Jnw.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-counter.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:c03af697cb5b65f5a480a0ed478408fec0651009===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-divider-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350e2e38b-stvJua.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-divider-rtl.min.css?simply_static_page=1596
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-divider-rtl.min.css?simply_static_page=1596
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 4298 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-divider-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350e2e38b-stvJua.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-divider-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:b2c69207975c6a828ed715ad8a7120435f2c5e31===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-divider.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350e46d66-VoHtiN.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-divider.min.css?simply_static_page=1597
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-divider.min.css?simply_static_page=1597
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 4298 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-divider.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350e46d66-VoHtiN.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-divider.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:b2c69207975c6a828ed715ad8a7120435f2c5e31===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-base-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350e55f01-I20Zxs.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-base-rtl.min.css?simply_static_page=1598
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-base-rtl.min.css?simply_static_page=1598
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 8950 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-bars-base-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350e55f01-I20Zxs.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-bars-base-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:ea7ae7f7ff6b3dc9b53a9f2567293c15ec8bb6e4===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-base.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350e72b59-PiGRvj.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-base.min.css?simply_static_page=1599
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-base.min.css?simply_static_page=1599
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 8950 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-bars-base.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350e72b59-PiGRvj.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-bars-base.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:ea7ae7f7ff6b3dc9b53a9f2567293c15ec8bb6e4===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350e7d22b-aOMQVr.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2-rtl.min.css?simply_static_page=1600
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2-rtl.min.css?simply_static_page=1600
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 5274 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350e7d22b-aOMQVr.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:734a64d89de4982ac0e52a02d1370d8dbbb0b3fa===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350e9db2f-qYVy5X.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2.min.css?simply_static_page=1601
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2.min.css?simply_static_page=1601
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 5274 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350e9db2f-qYVy5X.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:734a64d89de4982ac0e52a02d1370d8dbbb0b3fa===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350ea8f83-wjwtnW.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3-rtl.min.css?simply_static_page=1602
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3-rtl.min.css?simply_static_page=1602
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 4971 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350ea8f83-wjwtnW.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:9e144db3fab02d62152107429277f3e81bd4cc38===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350eb581f-GJPA07.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3.min.css?simply_static_page=1603
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3.min.css?simply_static_page=1603
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 4971 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350eb581f-GJPA07.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:9e144db3fab02d62152107429277f3e81bd4cc38===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-vars-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350ecf374-DsjExQ.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-vars-rtl.min.css?simply_static_page=1604
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-vars-rtl.min.css?simply_static_page=1604
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 40 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-bars-vars-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350ecf374-DsjExQ.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-bars-vars-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:e114eef7bb23345b801cba10e136cf059fba3b6a===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-vars.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350ed894f-77SkA5.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-vars.min.css?simply_static_page=1605
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-bars-vars.min.css?simply_static_page=1605
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 40 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-bars-vars.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350ed894f-77SkA5.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-bars-vars.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:54] [class-ss-page.php:119] Checking Content Identical:e114eef7bb23345b801cba10e136cf059fba3b6a===. Value: FALSE
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-buttons-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 1209
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350ede900-FquxP5.tmp
+[2025-03-27 11:22:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-buttons-rtl.min.css?simply_static_page=1606
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-buttons-rtl.min.css?simply_static_page=1606
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:103] Filesize: 92814 bytes
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-buttons-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350ede900-FquxP5.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-buttons-rtl.min.css
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:54] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:55] [class-ss-page.php:119] Checking Content Identical:80b5896add5beaeee01b00575c489694bb41935d===. Value: FALSE
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-buttons.min.css
+[2025-03-27 11:22:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 1209
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350f0398d-72wRAn.tmp
+[2025-03-27 11:22:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-buttons.min.css?simply_static_page=1607
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-floating-buttons.min.css?simply_static_page=1607
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:103] Filesize: 92814 bytes
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-floating-buttons.min.css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350f0398d-72wRAn.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-floating-buttons.min.css
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:55] [class-ss-page.php:119] Checking Content Identical:80b5896add5beaeee01b00575c489694bb41935d===. Value: FALSE
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-google_maps-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 1209
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350f26251-MdwqMi.tmp
+[2025-03-27 11:22:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-google_maps-rtl.min.css?simply_static_page=1608
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-google_maps-rtl.min.css?simply_static_page=1608
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:103] Filesize: 301 bytes
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-google_maps-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350f26251-MdwqMi.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-google_maps-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:55] [class-ss-page.php:119] Checking Content Identical:65ffc501eb6ce9785248b2595db04142ff635bf1===. Value: FALSE
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css
+[2025-03-27 11:22:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 1209
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350f3ee1e-2Digbn.tmp
+[2025-03-27 11:22:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?simply_static_page=1609
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?simply_static_page=1609
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:103] Filesize: 301 bytes
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-google_maps.min.css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350f3ee1e-2Digbn.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:55] [class-ss-page.php:119] Checking Content Identical:65ffc501eb6ce9785248b2595db04142ff635bf1===. Value: FALSE
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 1209
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350f6dff9-4ydQFy.tmp
+[2025-03-27 11:22:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css?simply_static_page=1610
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css?simply_static_page=1610
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:103] Filesize: 600 bytes
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350f6dff9-4ydQFy.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-heading-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:55] [class-ss-page.php:119] Checking Content Identical:4da01b439a58091dc3cca23d0d9aff708c6ae5dd===. Value: FALSE
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-heading.min.css
+[2025-03-27 11:22:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 1209
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350f82420-mrMp29.tmp
+[2025-03-27 11:22:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-heading.min.css?simply_static_page=1611
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-heading.min.css?simply_static_page=1611
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:103] Filesize: 600 bytes
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-heading.min.css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350f82420-mrMp29.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-heading.min.css
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:55] [class-ss-page.php:119] Checking Content Identical:4da01b439a58091dc3cca23d0d9aff708c6ae5dd===. Value: FALSE
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-box-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 1209
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350fab271-tsGrJj.tmp
+[2025-03-27 11:22:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-box-rtl.min.css?simply_static_page=1612
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-box-rtl.min.css?simply_static_page=1612
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:103] Filesize: 10071 bytes
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-icon-box-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350fab271-tsGrJj.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-icon-box-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:55] [class-ss-page.php:119] Checking Content Identical:b845cdefd10d1941f866bafe895bf7c911a8f8a1===. Value: FALSE
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+[2025-03-27 11:22:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 1209
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350fce3fa-JSS1Oz.tmp
+[2025-03-27 11:22:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?simply_static_page=1613
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?simply_static_page=1613
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:103] Filesize: 10071 bytes
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350fce3fa-JSS1Oz.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:55] [class-ss-page.php:119] Checking Content Identical:fbae9ba88770f3a8e3c131c2b717624df100fcc9===. Value: FALSE
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css
+[2025-03-27 11:22:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 1209
+[2025-03-27 11:22:55] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5350fe6dd7-FpvqKs.tmp
+[2025-03-27 11:22:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css?simply_static_page=1614
+[2025-03-27 11:22:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css?simply_static_page=1614
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:103] Filesize: 10309 bytes
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5350fe6dd7-FpvqKs.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:56] [class-ss-page.php:119] Checking Content Identical:f49c30866cd75325642c91d3ce9825ff45dbf6de===. Value: FALSE
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+[2025-03-27 11:22:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 1209
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53510230c9-oi4kS6.tmp
+[2025-03-27 11:22:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?simply_static_page=1615
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?simply_static_page=1615
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:103] Filesize: 10310 bytes
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53510230c9-oi4kS6.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:56] [class-ss-page.php:119] Checking Content Identical:ff4a897c2ea2256bd06c0f4f4d3fe71f38405ad8===. Value: FALSE
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-box-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 1209
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351056399-MCrIfU.tmp
+[2025-03-27 11:22:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-box-rtl.min.css?simply_static_page=1616
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-box-rtl.min.css?simply_static_page=1616
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:103] Filesize: 1409 bytes
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-image-box-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351056399-MCrIfU.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-image-box-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:56] [class-ss-page.php:119] Checking Content Identical:1bfbf44595d1ada5a80cf6ab7a61e0468ac8c704===. Value: FALSE
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-box.min.css
+[2025-03-27 11:22:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 1209
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351077664-FXW990.tmp
+[2025-03-27 11:22:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?simply_static_page=1617
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?simply_static_page=1617
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:103] Filesize: 1409 bytes
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-image-box.min.css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351077664-FXW990.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-image-box.min.css
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:56] [class-ss-page.php:119] Checking Content Identical:d9c9e3d76ef4eb11c7548fd3852c5c595ec86ef7===. Value: FALSE
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-carousel-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 1209
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351097def-TzIeDU.tmp
+[2025-03-27 11:22:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-carousel-rtl.min.css?simply_static_page=1618
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-carousel-rtl.min.css?simply_static_page=1618
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:103] Filesize: 382 bytes
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-image-carousel-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351097def-TzIeDU.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-image-carousel-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:56] [class-ss-page.php:119] Checking Content Identical:4298d86dba7f2a1cc3b258fd329fc2c7eae94787===. Value: FALSE
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css
+[2025-03-27 11:22:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 1209
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53510c869e-uqQVAH.tmp
+[2025-03-27 11:22:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?simply_static_page=1619
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?simply_static_page=1619
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:103] Filesize: 382 bytes
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53510c869e-uqQVAH.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:56] [class-ss-page.php:119] Checking Content Identical:4298d86dba7f2a1cc3b258fd329fc2c7eae94787===. Value: FALSE
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-gallery-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 1209
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53510d6da9-uKFixz.tmp
+[2025-03-27 11:22:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-gallery-rtl.min.css?simply_static_page=1620
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-gallery-rtl.min.css?simply_static_page=1620
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:103] Filesize: 2459 bytes
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-image-gallery-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53510d6da9-uKFixz.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-image-gallery-rtl.min.css
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:56] [class-ss-page.php:119] Checking Content Identical:953119a7bb6a1e65d1b320a268da04150dbfa7f2===. Value: FALSE
+[2025-03-27 11:22:56] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css
+[2025-03-27 11:22:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 1209
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535110522b-kO8e5N.tmp
+[2025-03-27 11:22:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css?simply_static_page=1621
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css?simply_static_page=1621
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:103] Filesize: 2459 bytes
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535110522b-kO8e5N.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:57] [class-ss-page.php:119] Checking Content Identical:953119a7bb6a1e65d1b320a268da04150dbfa7f2===. Value: FALSE
+[2025-03-27 11:22:57] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 350 of 1209 pages/files
+[2025-03-27 11:22:57] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-03-27 11:22:57] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-03-27 11:22:57] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:69] Total pages: 1209; Pages remaining: 809
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 1209
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535113aab6-Ym1sbS.tmp
+[2025-03-27 11:22:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css?simply_static_page=1622
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css?simply_static_page=1622
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:103] Filesize: 254 bytes
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535113aab6-Ym1sbS.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-image-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:57] [class-ss-page.php:119] Checking Content Identical:bbe87a904c6f2abaa068fe19cb926193b09fc30b===. Value: FALSE
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image.min.css
+[2025-03-27 11:22:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 1209
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351160d0c-OvXeTW.tmp
+[2025-03-27 11:22:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image.min.css?simply_static_page=1623
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-image.min.css?simply_static_page=1623
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:103] Filesize: 254 bytes
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-image.min.css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351160d0c-OvXeTW.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-image.min.css
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:57] [class-ss-page.php:119] Checking Content Identical:bbe87a904c6f2abaa068fe19cb926193b09fc30b===. Value: FALSE
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 1209
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535118aa70-X06wkO.tmp
+[2025-03-27 11:22:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base-rtl.min.css?simply_static_page=1624
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base-rtl.min.css?simply_static_page=1624
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:103] Filesize: 12439 bytes
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-base-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535118aa70-X06wkO.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:57] [class-ss-page.php:119] Checking Content Identical:a7dcbf88e48b721c9c055116e6cd4fcd87956555===. Value: FALSE
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base.min.css
+[2025-03-27 11:22:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 1209
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53511b0f42-95muV7.tmp
+[2025-03-27 11:22:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base.min.css?simply_static_page=1625
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base.min.css?simply_static_page=1625
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:103] Filesize: 12439 bytes
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-base.min.css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53511b0f42-95muV7.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base.min.css
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:57] [class-ss-page.php:119] Checking Content Identical:a7dcbf88e48b721c9c055116e6cd4fcd87956555===. Value: FALSE
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 1209
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53511c9918-zWzTUB.tmp
+[2025-03-27 11:22:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-rtl.min.css?simply_static_page=1626
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-rtl.min.css?simply_static_page=1626
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:103] Filesize: 18047 bytes
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53511c9918-zWzTUB.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:57] [class-ss-page.php:119] Checking Content Identical:21f09e10ad7de5049410ecae1603142469b9756e===. Value: FALSE
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2-rtl.min.css
+[2025-03-27 11:22:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 1209
+[2025-03-27 11:22:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53511f1d91-o36Vb3.tmp
+[2025-03-27 11:22:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2-rtl.min.css?simply_static_page=1627
+[2025-03-27 11:22:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2-rtl.min.css?simply_static_page=1627
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:103] Filesize: 861 bytes
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53511f1d91-o36Vb3.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:58] [class-ss-page.php:119] Checking Content Identical:fc141e4463324e870d36bf7e6d276ad1388271cf===. Value: FALSE
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2.min.css
+[2025-03-27 11:22:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 1209
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535122a883-CpGNd6.tmp
+[2025-03-27 11:22:58] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2.min.css?simply_static_page=1628
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2.min.css?simply_static_page=1628
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:103] Filesize: 861 bytes
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2.min.css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535122a883-CpGNd6.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2.min.css
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:58] [class-ss-page.php:119] Checking Content Identical:fc141e4463324e870d36bf7e6d276ad1388271cf===. Value: FALSE
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 1209
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351252776-Hzuz88.tmp
+[2025-03-27 11:22:58] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3-rtl.min.css?simply_static_page=1629
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3-rtl.min.css?simply_static_page=1629
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:103] Filesize: 744 bytes
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351252776-Hzuz88.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:58] [class-ss-page.php:119] Checking Content Identical:0fcc670f89dc878afde5d304137f58eb964609c7===. Value: FALSE
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3.min.css
+[2025-03-27 11:22:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 1209
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535127c68d-tm2fkh.tmp
+[2025-03-27 11:22:58] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3.min.css?simply_static_page=1630
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3.min.css?simply_static_page=1630
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:103] Filesize: 744 bytes
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3.min.css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535127c68d-tm2fkh.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3.min.css
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:58] [class-ss-page.php:119] Checking Content Identical:0fcc670f89dc878afde5d304137f58eb964609c7===. Value: FALSE
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 1209
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53512a4a9c-cX0I55.tmp
+[2025-03-27 11:22:58] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4-rtl.min.css?simply_static_page=1631
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4-rtl.min.css?simply_static_page=1631
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:103] Filesize: 828 bytes
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53512a4a9c-cX0I55.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:58] [class-ss-page.php:119] Checking Content Identical:8b9efadc97d8f9088a945594476924b7da5d0075===. Value: FALSE
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4.min.css
+[2025-03-27 11:22:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 1209
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53512d12b4-HLLC9q.tmp
+[2025-03-27 11:22:58] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4.min.css?simply_static_page=1632
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4.min.css?simply_static_page=1632
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:103] Filesize: 828 bytes
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4.min.css
+[2025-03-27 11:22:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53512d12b4-HLLC9q.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4.min.css
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:58] [class-ss-page.php:119] Checking Content Identical:8b9efadc97d8f9088a945594476924b7da5d0075===. Value: FALSE
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5-rtl.min.css
+[2025-03-27 11:22:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 1209
+[2025-03-27 11:22:58] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53512f3457-uEjw1B.tmp
+[2025-03-27 11:22:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5-rtl.min.css?simply_static_page=1633
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5-rtl.min.css?simply_static_page=1633
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:103] Filesize: 1668 bytes
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5-rtl.min.css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53512f3457-uEjw1B.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5-rtl.min.css
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:59] [class-ss-page.php:119] Checking Content Identical:fffe345aa5fbc5fd8806b4db6fbb6f2bef65957f===. Value: FALSE
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5.min.css
+[2025-03-27 11:22:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 1209
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53513290a6-xvCaQx.tmp
+[2025-03-27 11:22:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5.min.css?simply_static_page=1634
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5.min.css?simply_static_page=1634
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:103] Filesize: 1668 bytes
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5.min.css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53513290a6-xvCaQx.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5.min.css
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:59] [class-ss-page.php:119] Checking Content Identical:fffe345aa5fbc5fd8806b4db6fbb6f2bef65957f===. Value: FALSE
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7-rtl.min.css
+[2025-03-27 11:22:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 1209
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351359930-UedEzX.tmp
+[2025-03-27 11:22:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7-rtl.min.css?simply_static_page=1635
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7-rtl.min.css?simply_static_page=1635
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:103] Filesize: 1723 bytes
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7-rtl.min.css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351359930-UedEzX.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7-rtl.min.css
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:59] [class-ss-page.php:119] Checking Content Identical:d0f41855f09434bb2522a51aea0995bf32ee22fc===. Value: FALSE
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7.min.css
+[2025-03-27 11:22:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 1209
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351386391-FjqF6h.tmp
+[2025-03-27 11:22:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7.min.css?simply_static_page=1636
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7.min.css?simply_static_page=1636
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:103] Filesize: 1723 bytes
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7.min.css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351386391-FjqF6h.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7.min.css
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:59] [class-ss-page.php:119] Checking Content Identical:d0f41855f09434bb2522a51aea0995bf32ee22fc===. Value: FALSE
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars-rtl.min.css
+[2025-03-27 11:22:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 1209
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53513aae80-3Ohanh.tmp
+[2025-03-27 11:22:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars-rtl.min.css?simply_static_page=1637
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars-rtl.min.css?simply_static_page=1637
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:103] Filesize: 40 bytes
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars-rtl.min.css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53513aae80-3Ohanh.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars-rtl.min.css
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:59] [class-ss-page.php:119] Checking Content Identical:e114eef7bb23345b801cba10e136cf059fba3b6a===. Value: FALSE
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars.min.css
+[2025-03-27 11:22:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 1209
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53513c7571-g6jRQI.tmp
+[2025-03-27 11:22:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars.min.css?simply_static_page=1638
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars.min.css?simply_static_page=1638
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:103] Filesize: 40 bytes
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars.min.css
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53513c7571-g6jRQI.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio-vars.min.css
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:22:59] [class-ss-page.php:119] Checking Content Identical:e114eef7bb23345b801cba10e136cf059fba3b6a===. Value: FALSE
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio.min.css
+[2025-03-27 11:22:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 1209
+[2025-03-27 11:22:59] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53513f05af-4HhHGH.tmp
+[2025-03-27 11:22:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio.min.css?simply_static_page=1639
+[2025-03-27 11:22:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-link-in-bio.min.css?simply_static_page=1639
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:103] Filesize: 18047 bytes
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-link-in-bio.min.css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53513f05af-4HhHGH.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-link-in-bio.min.css
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:00] [class-ss-page.php:119] Checking Content Identical:21f09e10ad7de5049410ecae1603142469b9756e===. Value: FALSE
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-menu-anchor-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 1209
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53514178a8-RTL1q4.tmp
+[2025-03-27 11:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-menu-anchor-rtl.min.css?simply_static_page=1640
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-menu-anchor-rtl.min.css?simply_static_page=1640
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:103] Filesize: 106 bytes
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-menu-anchor-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53514178a8-RTL1q4.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-menu-anchor-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:00] [class-ss-page.php:119] Checking Content Identical:9b7a0df880b6364aeb4fa39b6c05715779f35cab===. Value: FALSE
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css
+[2025-03-27 11:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 1209
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351432bac-QveoWL.tmp
+[2025-03-27 11:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?simply_static_page=1641
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?simply_static_page=1641
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:103] Filesize: 106 bytes
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351432bac-QveoWL.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:00] [class-ss-page.php:119] Checking Content Identical:9b7a0df880b6364aeb4fa39b6c05715779f35cab===. Value: FALSE
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-accordion-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 1209
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53514470e2-udKpME.tmp
+[2025-03-27 11:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-accordion-rtl.min.css?simply_static_page=1642
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-accordion-rtl.min.css?simply_static_page=1642
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:103] Filesize: 5164 bytes
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-nested-accordion-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53514470e2-udKpME.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-nested-accordion-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:00] [class-ss-page.php:119] Checking Content Identical:fabc14d279aa334e2c511b955f053683018770a2===. Value: FALSE
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css
+[2025-03-27 11:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 1209
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535145f7c4-gkz7qJ.tmp
+[2025-03-27 11:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?simply_static_page=1643
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?simply_static_page=1643
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:103] Filesize: 5164 bytes
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535145f7c4-gkz7qJ.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:00] [class-ss-page.php:119] Checking Content Identical:fabc14d279aa334e2c511b955f053683018770a2===. Value: FALSE
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-tabs-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 1209
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535147e2a1-Graopq.tmp
+[2025-03-27 11:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-tabs-rtl.min.css?simply_static_page=1644
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-tabs-rtl.min.css?simply_static_page=1644
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:103] Filesize: 14858 bytes
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-nested-tabs-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535147e2a1-Graopq.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-nested-tabs-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:00] [class-ss-page.php:119] Checking Content Identical:d1b2ec3cf13d79f801836dd8431f762d63846c91===. Value: FALSE
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css
+[2025-03-27 11:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 1209
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53514a0386-gr79ZU.tmp
+[2025-03-27 11:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?simply_static_page=1645
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?simply_static_page=1645
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:103] Filesize: 14858 bytes
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53514a0386-gr79ZU.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:00] [class-ss-page.php:119] Checking Content Identical:d1b2ec3cf13d79f801836dd8431f762d63846c91===. Value: FALSE
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-progress-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 1209
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53514cba04-AalzW8.tmp
+[2025-03-27 11:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-progress-rtl.min.css?simply_static_page=1646
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-progress-rtl.min.css?simply_static_page=1646
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:103] Filesize: 1229 bytes
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-progress-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53514cba04-AalzW8.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-progress-rtl.min.css
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:00] [class-ss-page.php:119] Checking Content Identical:68c5b04a0f7e0dd6ef3b7e2abd8c24ba9c35d03d===. Value: FALSE
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-progress.min.css
+[2025-03-27 11:23:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 1209
+[2025-03-27 11:23:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53514e5b5e-32kp2X.tmp
+[2025-03-27 11:23:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-progress.min.css?simply_static_page=1647
+[2025-03-27 11:23:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-progress.min.css?simply_static_page=1647
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 1229 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-progress.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53514e5b5e-32kp2X.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-progress.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:68c5b04a0f7e0dd6ef3b7e2abd8c24ba9c35d03d===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-rating-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351514be8-ZBJGPG.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-rating-rtl.min.css?simply_static_page=1648
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-rating-rtl.min.css?simply_static_page=1648
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 1322 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-rating-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351514be8-ZBJGPG.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-rating-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:c22bf85a835bda1f6fb245f38e3274c4512e7f6e===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-rating.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535151fbe4-b4lcNa.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-rating.min.css?simply_static_page=1649
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-rating.min.css?simply_static_page=1649
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 1322 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-rating.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e535151fbe4-b4lcNa.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-rating.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:c22bf85a835bda1f6fb245f38e3274c4512e7f6e===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-social-icons-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53515256bb-SJ4Jy3.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-social-icons-rtl.min.css?simply_static_page=1650
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-social-icons-rtl.min.css?simply_static_page=1650
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 5150 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-social-icons-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53515256bb-SJ4Jy3.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-social-icons-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:2b27ffce027aa47feddd8df4bf3f6e1573f61580===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351532e41-sQogFQ.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?simply_static_page=1651
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?simply_static_page=1651
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 5150 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-social-icons.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351532e41-sQogFQ.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:2b27ffce027aa47feddd8df4bf3f6e1573f61580===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-spacer-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e53515487d7-U5LE8y.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-spacer-rtl.min.css?simply_static_page=1652
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-spacer-rtl.min.css?simply_static_page=1652
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 1833 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-spacer-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e53515487d7-U5LE8y.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-spacer-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:6c1fa34f8b70865c4ec017c8d66f6d287c0e990c===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-spacer.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e5351568421-AnUDGQ.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?simply_static_page=1653
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?simply_static_page=1653
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:103] Filesize: 1833 bytes
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/css/widget-spacer.min.css
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\umang\AppData\Local\Temp/67e5351568421-AnUDGQ.tmp to C:\xampp\htdocs\Abhi-singh/wp-content/uploads\simply-static\temp-files/simply-static-1-1743074484/wp-content/plugins/elementor/assets/css/widget-spacer.min.css
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-03-27 11:23:01] [class-ss-page.php:119] Checking Content Identical:6c1fa34f8b70865c4ec017c8d66f6d287c0e990c===. Value: FALSE
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:72] URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css
+[2025-03-27 11:23:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 1209
+[2025-03-27 11:23:01] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\umang\AppData\Local\Temp/67e535157c9c3-PThs1k.tmp
+[2025-03-27 11:23:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css?simply_static_page=1654
+[2025-03-27 11:23:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/abhi-singh/wp-content/plugins/elementor/assets/css/widget-star-rating-rtl.min.css?simply_static_page=1654
